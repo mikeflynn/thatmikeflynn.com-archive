@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Ropa+Sans:400,400italic);
+
+body {
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 14px;
+	background: #eeeeee;
+	border-left: 5px solid #08C;
+}
+
+div#bin { 
+	padding-top: 20px;
+}
+
+div#header { margin: 0px 0px 20px 0px; }
+div#header h1 { font-size: 50px; }
+
+div#sidebar { text-transform: uppercase; line-height: 1.25em; }
+
+div#sidebar h4 { margin-top: 20px; }
+
+div#sidebar h4.top { margin-top: 0px; }
+
+div#sidebar a { display: block; }
+
+div#footer {
+	margin: 10px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	border-top: 1px solid #ccc;
+}
