@@ -3,12 +3,13 @@ layout: default
 title: Online Writing
 ---
 
-<h2 class="intro">
+<h3 class="intro">
 	<p>I'm <a href="/about.html">Mike Flynn</a>. I write code and jokes for the vast majority of my day. The rest of the day is filled with some amount of sleeping, eating, pooping, giggling about the pooping, and talking about the things I wrote.</p>
 	<p>Here's my last 5 posts, for the rest, check out the <a href="/archives.html">archives</a>.</p>
-</h2>
+</h3>
 
 {% for post in site.posts limit:5 %}
+  <h2>{{ post.title }}</h2>
   <div class="post">
   {{ post.content }}
   <p class="signoff">
