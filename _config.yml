@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Mike Flynn
+tagline:          "Projects and apps from someone that likes to use his programming powers on fun stuff."
+description:      'A showcase of my projects and apps.'
+url:              http://mikeflynn.github.io
+baseurl:          /
+
+author:
+  name:           'Mike Flynn'
+  url:            https://twitter.com/mikeflynn_
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
