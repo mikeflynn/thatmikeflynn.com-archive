@@ -1,4 +1,18 @@
+/* Custom Theme */
+
 .sidebar h1 {
   font-family: 'Sansita One', cursive;
   font-weight: 400;
+}
+
+.sidebar {
+  background: url('/public/images/rabbit.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #90a959;
+  text-shadow:
+    -1px -1px 0 #333,
+     1px -1px 0 #333,
+    -1px 1px 0 #333,
+     1px 1px 0 #333;
 }
