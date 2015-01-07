@@ -3,10 +3,14 @@ layout: page
 title: Projects
 ---
 
+Years: [2015](#2015) (0), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+
+<a name="2015"></a>
 ## 2015
 
 _...nothing yet. I'm thinking!_
 
+<a name="2014"></a>
 ## 2014
 
 <a name="whoopee"></a>
@@ -81,11 +85,19 @@ Since there is no Mac application for Beats Music, I created a simple Google Chr
 
 Available in the Google Chrome App Store here: [Beats Music Chrome App](https://chrome.google.com/webstore/detail/beats-music-chrome-app/hjeiboeolldhkhfldcipahpigbebkioo)
 
+<a name="2013"></a>
 ## 2013
 
-_No personal projects of note to share._
+<a name="punchingkitty"></a>
+### Punching Kitty
 
+![placeholder](/public/images/punchingkitty.jpg "Medium example image")
 
+From 2009 to 2013 I wrote [an award winning humor site](http://punchingkitty.com/about) about St. Louis news (where I lived at the time). Punching Kitty was a writing project for the city of St. Louis to have a little fun and try to get everyone to stop taking themselves so seriously...and hopefully highlight some critical issues along the way.
+
+The complete archives are still online: [Punching Kitty.com](http://punchingkitty.com/)
+
+<a name="2012"></a>
 ## 2012
 
 <a name="keyword"></a>
@@ -94,14 +106,3 @@ _No personal projects of note to share._
 A Chrome Extension that allows the user to automatically search on a loaded webpage for a set list of keywords. Great for identifying an article for specific keywords for ad placement.
 
 Available on [the GitHub product page](https://github.com/mikeflynn/chrome-keyword-search).
-
-## 2009
-
-<a name="punchingkitty"></a>
-### Punching Kitty
-
-![placeholder](/public/images/punchingkitty.jpg "Medium example image")
-
-From 2009 to 2013 I wrote a humor blog about St. Louis news (where I lived at the time). Punching Kitty was a writing project for the city of St. Louis to have a little fun and try to get everyone to stop taking themselves so seriously...and hopefully highlight some critical issues along the way.
-
-The complete archives are still online: [Punching Kitty.com](http://punchingkitty.com/)
