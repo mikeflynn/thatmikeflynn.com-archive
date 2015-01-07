@@ -3,15 +3,16 @@ layout: page
 title: Projects
 ---
 
+<a name="top"></a>
 Years: [2015](#2015) (0), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
 
 <a name="2015"></a>
-## 2015
+## 2015 [&#94;](#top)
 
 _...nothing yet. I'm thinking!_
 
 <a name="2014"></a>
-## 2014
+## 2014 [&#94;](#top)
 
 <a name="whoopee"></a>
 ### Remote Whoopee Cushion
@@ -86,7 +87,7 @@ Since there is no Mac application for Beats Music, I created a simple Google Chr
 Available in the Google Chrome App Store here: [Beats Music Chrome App](https://chrome.google.com/webstore/detail/beats-music-chrome-app/hjeiboeolldhkhfldcipahpigbebkioo)
 
 <a name="2013"></a>
-## 2013
+## 2013 [&#94;](#top)
 
 <a name="punchingkitty"></a>
 ### Punching Kitty
@@ -98,7 +99,7 @@ From 2009 to 2013 I wrote [an award winning humor site](http://punchingkitty.com
 The complete archives are still online: [Punching Kitty.com](http://punchingkitty.com/)
 
 <a name="2012"></a>
-## 2012
+## 2012 [&#94;](#top)
 
 <a name="keyword"></a>
 ### Chrome Keyword Search Extension
