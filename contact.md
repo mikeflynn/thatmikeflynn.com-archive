@@ -18,7 +18,7 @@ As is the case for everyone these days there are a number of ways to get a hold 
 _Note: If you have a question about anything that pertains to my day job, VP of Technology for Collective Digital Studio, please reach out at my work email address: mflynn [at] thecollective-la [dot] com_
 
 #### Social Networks
-* **Twitter: [@mikeflynn_](https://twitter.com/mikeflynn_)**
+* **Twitter: [@thatmikeflynn](https://twitter.com/thatmikeflynn)**
 * Facebook: [mikeflynn](https://facebook.com/mikeflynn)
 * Google Plus: [+MikeFlynnIsAwesome](https://plus.google.com/u/0/+MikeFlynnIsAwesome/posts)
 * Instagram: [mikeflynn](http://instagram.com/mikeflynn)
