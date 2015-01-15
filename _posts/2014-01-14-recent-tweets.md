@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recent Tweets: Jan 2015
+title: Recent Tweets - Jan 2015
 ---
 
 <blockquote class="twitter-tweet" lang="en"><p>I made the cut and I’ll be at <a href="https://twitter.com/CultivatedWit">@CultivatedWit</a>’s <a href="https://twitter.com/hashtag/comedyhackday?src=hash">#comedyhackday</a> in Feb! They are forcing me to wear pants. <a href="http://t.co/Gr9wYztZKG">http://t.co/Gr9wYztZKG</a></p>&mdash; Mike Flynn (@thatmikeflynn) <a href="https://twitter.com/thatmikeflynn/status/553418307559124992">January 9, 2015</a></blockquote>
