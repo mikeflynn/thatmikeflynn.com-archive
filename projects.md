@@ -81,7 +81,7 @@ Use it here (requires Beats Music subscription): [sentencesaver.theangrytruth.co
 
 ![placeholder](/public/images/chromebeats.jpg "Medium example image")
 
-Since there is no Mac application for Beats Music, I created a simple Google Chrome application wrapper to the [Beats Music.com](http://www.beatsmusic.com/) web interface.
+Since there is no Mac application for Beats Music, I created a simple Google Chrome application wrapper to the [Beats Music.com](http://www.beatsmusic.com/) web interface. *The app now has over 27,000 weekly users.*
 
 Available in the Google Chrome App Store here: [Beats Music Chrome App](https://chrome.google.com/webstore/detail/beats-music-chrome-app/hjeiboeolldhkhfldcipahpigbebkioo)
 
