@@ -21,3 +21,7 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
+
+# Gems
+gems:
+  - jekyll-sitemap
