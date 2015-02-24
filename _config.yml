@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Mike Flynn
 tagline:          "Projects and apps from someone that likes to use his programming powers on fun stuff."
 description:      'A showcase of my projects and apps.'
-url:              http://mikeflynn.github.io
+url:              http://thatmikeflynn.com
 baseurl:          /
 
 author:
