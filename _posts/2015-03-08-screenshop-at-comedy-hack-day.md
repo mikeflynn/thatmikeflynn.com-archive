@@ -20,3 +20,5 @@ Comedy Hack Day was a pretty freaking cool experience all around and made better
 Here's the demo video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQQIodnt53g?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Check out more about [Comedy Hack Day SF 2015](http://www.comedyhackday.org/sf-2015).
