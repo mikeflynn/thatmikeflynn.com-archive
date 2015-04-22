@@ -8,6 +8,13 @@ Years: [2015](#2015) (2), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1
 <a name="2015"></a>
 ## 2015 [&#94;](#top)
 
+<a name="eggjs"></a>
+### Egg.js - A Simple Way to Add Easter Eggs to Your Site
+
+I always add easter eggs (little secret features) to nearly everything I write, but that's especially true on web pages (try typing "abby" on [Punching Kitty.com](http://punchingkitty.com)). Finally I got tired to reimplementing the same easter egg code and created a small library in pure Javascript: [Egg.js](http://thatmikeflynn.com/egg.js/)
+
+Egg.js was submitted to [Hacker News](https://news.ycombinator.com/item?id=9415784) and it quickly made the home page. The [repo on GitHub](https://github.com/mikeflynn/egg.js) now has nearly 300 stars and counting!
+
 <a name="quackerjack"></a>
 ### Quackerjack - A YouTube Comment Analyzer
 
