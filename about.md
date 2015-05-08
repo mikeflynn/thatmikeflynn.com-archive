@@ -14,6 +14,7 @@ Writing the about page is always so tough. Here's something about me: I love lis
 * I've recently been thinking about getting in to Podcasting.
 * I live in the [San Francisco Bay Area](https://goo.gl/maps/5Z0ok).
 * I'm originally from [St. Louis, MO](https://goo.gl/maps/AD6fG).
-* Here's [my GitHub page](https://github.com/mikeflynn).
+* Here's <a href="https://github.com/mikeflynn" rel="me">my GitHub page</a>.
+* Here's <a href="https://twitter.com/thatmikeflynn" rel="me">my Twitter profile</a>.
 * Here's [my Stack Overflow Careers page](https://careers.stackoverflow.com/cv/edit/99934).
 * Here's [my LinkedIn profile](http://linkedin.com/in/flynn).
