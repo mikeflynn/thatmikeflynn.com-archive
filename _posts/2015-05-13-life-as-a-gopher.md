@@ -3,7 +3,7 @@ layout: post
 title: Life as a Gopher
 ---
 
-![image](/public/images/google-gopher.png "The Go Gopher")
+![image](/public/images/google-gopher.jpg "The Go Gopher")
 
 It seems like discussions about [Go (or Golang)](https://golang.org/), Google's new-ish, C-like, programming language, are everywhere these days. I've been using Go in my free time to work on little projects for the last few months and thought it was time to jot down a few thoughts on the language.
 
