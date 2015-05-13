@@ -13,7 +13,7 @@ Years: [2015](#2015) (2), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1
 
 I always add easter eggs (little secret features) to nearly everything I write, but that's especially true on web pages (try typing "abby" on [Punching Kitty.com](http://punchingkitty.com)). Finally I got tired to reimplementing the same easter egg code and created a small library in pure Javascript: [Egg.js](http://thatmikeflynn.com/egg.js/)
 
-Egg.js was submitted to [Hacker News](https://news.ycombinator.com/item?id=9415784) and it quickly made the home page. The [repo on GitHub](https://github.com/mikeflynn/egg.js) now has nearly 1000 stars and counting!
+Egg.js was submitted to [Hacker News](https://news.ycombinator.com/item?id=9415784) and it quickly made the home page. The [repo on GitHub](https://github.com/mikeflynn/egg.js) now has over 1000 stars and counting!
 
 <a name="quackerjack"></a>
 ### Quackerjack - A YouTube Comment Analyzer
