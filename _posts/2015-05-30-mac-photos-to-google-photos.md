@@ -13,7 +13,9 @@ Here's a better solution:
 
 2. Run the following command:
 
-```ln -s "/Users/`whoami`/Pictures/Photos Library.photoslibrary/Masters/" "/Users/`whoami`/Pictures/Photos Masters"```
+```bash
+ln -s "/Users/`whoami`/Pictures/Photos Library.photoslibrary/Masters/" "/Users/`whoami`/Pictures/Photos Masters"
+```
 
 3. You'll then see a directory called "Photos Masters" in your Pictures directory.
 
