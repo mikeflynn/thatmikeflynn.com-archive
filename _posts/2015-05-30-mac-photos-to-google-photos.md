@@ -11,7 +11,9 @@ Here's a better solution:
 
 1. You'll need to open the terminal application (don't be scared).
 
-2. Run the following command: ```ln -s "/Users/`whoami`/Pictures/Photos Library.photoslibrary/Masters/" "/Users/`whoami`/Pictures/Photos Masters"```
+2. Run the following command:
+
+```ln -s "/Users/`whoami`/Pictures/Photos Library.photoslibrary/Masters/" "/Users/`whoami`/Pictures/Photos Masters"```
 
 3. You'll then see a directory called "Photos Masters" in your Pictures directory.
 
