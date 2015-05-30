@@ -5,7 +5,7 @@ title: Syncing Your Mac Photos Library to Google Photos
 
 ![image](/public/images/io2015-photos.jpg "Google IO 2015 - Photos")
 
-I'm in the midst of recovering from Google IO but wanted to play with getting my Photos (aka New iPhoto) library from my Mac to Google Photos. Google supplies a Mac client for auto-importing but it will only watch a directory for new files and has no explicit import from Photos / iPhoto function. You could drag your folders from Photos to a different folder and have those sync to Google (and then delete them after) but that's a terrible solution.
+I'm in the midst of recovering from Google IO but wanted to play with getting my Photos (aka New iPhoto) library from my Mac to [the new Google Photos](https://photos.google.com). Google supplies [a Mac client](https://photos.google.com/apps) for auto-importing but it will only watch a directory for new files and has no explicit import from Photos / iPhoto function. You could drag your folders from Photos to a different folder and have those sync to Google (and then delete them after) but that's a terrible solution.
 
 Here's a better solution:
 
