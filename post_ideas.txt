@@ -1,5 +1,5 @@
-Egg.js
 Building a Team
 Quackerjack
 Conference talks (practice!)
+My home setup
 
