@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on the Cardinals Hacking Scandal
+title: The Cardinals are Either Horrible or Super l33t Hackers
 ---
 
 ![image](/public/images/mozeliak.jpg "Cards GM John Mozeliak")
