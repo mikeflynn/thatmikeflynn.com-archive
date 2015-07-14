@@ -8,6 +8,13 @@ Years: [2015](#2015) (2), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1
 <a name="2015"></a>
 ## 2015 [&#94;](#top)
 
+<a name="alexa"></a>
+### Amazon Alexa Skills - Various apps to add functionality to Amazon Echo
+
+I got an Amazon echo for the same reason everyone did: I want JARVIS! I've been making a few apps to get a little closer to that eventual "Everyone is Iron Man" future.
+
+...starting with a way to play [Jeopardy](/2015/07/14/amazon-alexa-jeopardy/), of course.
+
 <a name="eggjs"></a>
 ### Egg.js - A Simple Way to Add Easter Eggs to Your Site
 
