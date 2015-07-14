@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demoing My Amazon Alexa Jeopardy Skill
+title: Alexa, Lets Play Jeopardy!
 ---
 
 [![Alexa Jeopardy Demo](http://i.imgur.com/1lNgQjB.png)](https://www.youtube.com/watch?v=mDIEGUtoSjw)
