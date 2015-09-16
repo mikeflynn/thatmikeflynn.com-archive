@@ -20,4 +20,15 @@ egg.addCode("up,up,down,down,left,right,left,right,b,a", function() {
     playAudio('/public/audio/1up.wav');
 });
 
+egg.addCode("esc,esc", function() {
+  var div = document.createElement('div');
+  div.id = 'acidburn';
+  div.innerHTML = "ACID BURN <br /> SEZ LEAVE B 4 <br /> U R EXPUNGED";
+  document.body.appendChild(div);
+
+  window.setTimeout(function() {
+    document.body.removeChild(div);
+  }, 10000);
+});
+
 egg.listen();
