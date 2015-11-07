@@ -14,14 +14,21 @@ The overall goal of the summit was to discuss how data can and should be effecti
 > The transition to digital production has brought wholly new processes in storytelling, often involving formulas and equations as much as scripts and story boards. How are technology chiefs managing the digital transformation to ensure increasingly complicated  assets are successfully produced and distributed across platforms? What are differences between managing data in animation versus live action production and distribution? Top studio and platform technology leaders will explore how they ensuring a great digital storytelling experience for audiences.
 >
 > Moderator:
+>
 > Jay Tucker, Chief Marketing Officer, Institute for Communication Technology Management, USC > Marshall School of Business
 >
 > Speakers:
+>
 > Mike Flynn, CTO, Collective Digital Studio
+>
 > Aaron Sloman, CTO, OWNZONES
+>
 > Paul Davidson, SVP Film & TV, The Orchard
+>
 > Susan Cheng, Senior Vice President, Content Management & Distribution, Warner Bros.
+>
 > Kaliel Roberts, SVP Product and Technology, Digital Media, Discovery Communications
+>
 > Matt Kautz, Head of Business Intelligence, Analytics and Research for Machinima.
 
 ...and I think it went well, but who can tell on panels with 6 people, one of which was an event sponsor, on the stage talking about a wide ranging topic in under 45 minutes. In short, the answers our panel came up with where the same answers almost all the panels decided on: Collect data; Experiment; Collect more data; Experiment again; Repeat forever for every different content target.
