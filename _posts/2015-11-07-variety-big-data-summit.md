@@ -3,11 +3,11 @@ layout: post
 title: Speaking at the Variety Big Data Summit
 ---
 
-![image](/public/images/variety_bgidata_001.jpg "The Variety Big Data Summit Stage")
+![image](/public/images/variety_bigdata_001.jpg "The Variety Big Data Summit Stage")
 
 My career in technology has taken me to some interesting places over the last 10+ years: St. Louis (less interesting), Mountain View, Jerusalem, New York, San Francisco, and Beverly Hills, but this last trip to Beverly Hills was the first time I got to speak at a Hollywood event. I recently had the opportunity to be on a panel at the [Variety Big Data Summit](http://events.variety.com/conference/big-data-summit-presented-by-pwc/), and it was...well, I'm pretty sure I'm officially a fancy media executive now.
 
-![image](/public/images/variety_bgidata_002.jpg "My Variety Big Data Summit Speaker Badge")
+![image](/public/images/variety_bigdata_002.jpg "My Variety Big Data Summit Speaker Badge")
 
 The overall goal of the summit was to discuss how data can and should be effecting the business of Hollywood. My panel was entitled "The Transformation of Content Through Data"...
 
