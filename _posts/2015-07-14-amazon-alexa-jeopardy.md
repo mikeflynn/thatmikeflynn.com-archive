@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Alexa, Lets Play Jeopardy!
+tags:
+- Hacks
 ---
 
 [![Alexa Jeopardy Demo](http://i.imgur.com/1lNgQjB.png)](https://www.youtube.com/watch?v=mDIEGUtoSjw)

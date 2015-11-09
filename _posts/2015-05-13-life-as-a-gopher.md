@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Life as a Gopher
+tags:
+- Technology
+- Golang
 ---
 
 ![image](/public/images/google-gopher.jpg "The Go Gopher")

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Top 10 Sitcoms of All Time
+tags:
+- TV
 ---
 
 1. Seinfeld

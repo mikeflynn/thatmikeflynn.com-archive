@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Screenshop - My Team's Comedy Hack Day App
+tags:
+- Hacks
+- Comedy
 ---
 
 ![image](/public/images/CHD_007-judge_party-crop.gif "Comedy Hack Day SF 2015")

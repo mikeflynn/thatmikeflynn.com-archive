@@ -1,6 +1,8 @@
 ---
 layout: post
 title: ScreenShop Demo at 500 Startups WMD 2015
+tags:
+- Comedy
 ---
 
 ![image](/public/images/chd_wmd_2015.jpg "Mike @ WMD 2015")

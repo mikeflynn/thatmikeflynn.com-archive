@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Oh Twitter, What Have You Done?
+tags:
+- Technology
 ---
 
 I’ve used and enjoyed Twitter for what seems like a very long time now. To be clear, I don’t “enjoy” Twitter like all the “social media experts” or Klout junkies, or anyone looking to help “maximize my personal brand awareness”, I just like it. It’s quick. It’s simple. Lots of available tools. Easy to develop on.

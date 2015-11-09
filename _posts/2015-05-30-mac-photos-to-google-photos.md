@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Syncing Your Mac Photos Library to Google Photos
+tag:
+- Hacks
 ---
 
 ![image](/public/images/io2015-photos.jpg "Google IO 2015 - Photos")

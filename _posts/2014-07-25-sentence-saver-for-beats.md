@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sentence Saver for Beats Music
+tags:
+- Hacks
 ---
 
 ![image](/public/images/beats-music.jpg "Beats Music")

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: On St. Louis, Ferguson and Michael Brown
+tags:
+  - St. Louis
 ---
 
 ![image](/public/images/ferguson.jpg "Hands Up Dont Shoot")

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Women in Tech - Lets Keep the Anger Gun Pointed in the Right Direction
+tag:
+- Culture
 ---
 
 Two nights ago Jason Calacanis posted this on his Twitter account (<a href="http://twitter.com/jason">@jason</a>):

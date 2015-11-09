@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Not So Unlimited Vacation Policy
+tags:
+- Management
 ---
 
 I was catching up on Marco Arment's writing ([marco.org](http://marco.org)) recently and his link from December 14th caught my eye. Arment links to a piece talking about the lie that is the common start up benefit of "unlimited" vacation days ([From Open (Unlimited) to Minimum Vacation Policy](http://www.paperplanes.de/2014/12/10/from-open-to-minimum-vacation-policy.html)). It's a good piece and certinaly worth a read but Arment's comments are what specifically caught my eye:

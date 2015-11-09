@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Android Wear and an Update on My First Android App
+tags:
+- Technology
+- Hacks
 ---
 
 ![image](/public/images/remote-whoopee.png "Remote Whoopee Cushion App")

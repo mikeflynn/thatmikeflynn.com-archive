@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Comedy Hack Day 9 - Humanize Her
+tags:
+- Hacks
+- Comedy
 ---
 
 ![image](/public/images/chd9-humanize-her_001.jpg "Humanize Her @ Comedy Hack Day 9 in LA")

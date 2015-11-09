@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Amazon Dash Buttons are Awesome For Everything but Buying Stuff
+tags:
+- Hacks
 ---
 
 ![image](/public/images/dashbutton.jpg "Basement Dash Button")

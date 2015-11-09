@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Movie Hackers is 20 Years Old and I Still Love It
+tags:
+- Movies
 ---
 
 Every day there's a new post on Reddit / Hacker News / Twitter / Bloop / Slammy / Buzzfeed about how some thing that we all loved has a nice round birthday and today it was ["Hackers"](https://en.wikipedia.org/wiki/Hackers_(film)). The cult class is 20 years old. Crazy. I've probably watched that movie 100+ times over the last 20 years.

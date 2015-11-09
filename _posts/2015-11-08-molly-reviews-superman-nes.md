@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Molly and Daddy Review "Superman" for Nintendo (1987)
+tags:
+- Video
 ---
 
 [![Molly and Daddy Review Superman](/public/images/molly_daddy_superman_review.jpg)](https://www.youtube.com/watch?v=Rwri8S26ElY)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: I Got a 3D Printer
+tags:
+- Technology
 ---
 
 ![image](/public/images/solidoodle_press.png "Solidoodle Press")

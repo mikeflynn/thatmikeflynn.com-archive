@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Speaking at the Variety Big Data Summit
+tags:
+- Entertainment Industry
 ---
 
 ![image](/public/images/variety_bigdata_001.jpg "The Variety Big Data Summit Stage")

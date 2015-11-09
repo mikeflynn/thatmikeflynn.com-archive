@@ -1,6 +1,9 @@
 ---
 layout: post
 title: A Follow Up on the STLToday Paywall Story
+tags:
+- St. Louis
+- Hacks
 ---
 
 ![image](/public/images/stltoday-paywall.png "STLToday Paywall")

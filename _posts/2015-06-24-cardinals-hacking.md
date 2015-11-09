@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The Cardinals are Either Horrible or Super l33t Hackers
+tags:
+- Sports
+- News
 ---
 
 ![image](/public/images/mozeliak.jpg "Cards GM John Mozeliak")

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: STLToday's Paywall is Weak
+tags:
+- Hacks
+- St. Louis
 ---
 
 ![image](/public/images/stltoday-paywall.png "STLToday Paywall")

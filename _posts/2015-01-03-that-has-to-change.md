@@ -1,6 +1,8 @@
 ---
 layout: post
 title: That Has to Change
+tags:
+- Technology
 ---
 
 The New York Times has a nice, but short, [profile on the CTO of the United States of America](http://www.nytimes.com/2015/01/04/us/politics/her-task-weaning-the-white-house-off-floppy-disks.html) and the lede stood out to me in particular:

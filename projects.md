@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
 
 Years: [2015](#2015) (2), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)

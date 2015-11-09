@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Beats Music Likes My Clojure Library
+tags:
+- Hacks
 ---
 
 ![image](/public/images/beats-music.jpg "Beats Music")
