@@ -1,0 +1,18 @@
+<div class="related">
+  <div class="post-tags">
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+
+    {% if tags != empty %}
+    <h2>Tags:</h2>
+    <ul class="related-posts">
+      {% for tag in tags %}
+      <li><h3><a href="/tags/#{{tag|slugize}}">{{tag}}</a></h3></li>{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</div>
