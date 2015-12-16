@@ -10,8 +10,8 @@ Writing the about page is always so tough. Here's something about me: I love lis
 * In my free time I make various projects. You can see [a list of the notable ones here](/projects).
 * You can get a hold of me in a number of ways. All of which are detailed on [the Contact page](/contact).
 * Previously I wrote a very popular blog about making fun of St. Louis, MO news items entitled [Punching Kitty](http://punchingkitty.com). [I won a number of awards, garnered a bit of recognition, and appeared on various other media](http://punchingkitty.com/about) because of my work on Punching Kitty.
-* I'm a Mac guy but currently rock a Moto X phone and have started to get interested in Android development.
-* I've recently been thinking about getting in to Podcasting.
+* I'm a Mac guy but currently rock a Nexus 5x and have dabbled in both Android and iOS development (usually for silly projects).
+* I've been trying to record and post more video this year to both capture what my family is like with two little kids but also to get a sense of what our creators at Collective Digital Studio go through.
 * I live in the [San Francisco Bay Area](https://goo.gl/maps/5Z0ok).
 * I'm originally from [St. Louis, MO](https://goo.gl/maps/AD6fG).
 * Here's <a href="https://github.com/mikeflynn" rel="me">my GitHub page</a>.
