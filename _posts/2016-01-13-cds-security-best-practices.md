@@ -5,7 +5,9 @@ tags:
 - Collective Digital Studio
 ---
 
-_With YouTubers becoming larger celebrities every year, 2016 has started off with a hacker group getting access to YouTuber's social, financial and management account and sharing their data via their Twitter feed. This obviously has some of talent very worried. Theories were flying: "They must have cracked 2-factor authentication!" "No, I bet the MCNs are getting hacked." ... The following is a note I sent to all of our creators regarding best practices for securing their accounts and I thought it was a good summary for everyone, including and especially Collective Digital Studio talent, so I figured I would post it here on my blog to share the info and to give people a taste of how we help our awesome talent throughout the year._
+_With YouTubers becoming larger celebrities every year, 2016 has started off with a hacker group getting access to YouTuber's social, financial and management account and sharing their data via their Twitter feed. This obviously has some of talent very worried. Theories were flying: "They must have cracked 2-factor authentication!" "No, I bet the MCNs are getting hacked."_
+
+_The following is a note I sent to all of our creators regarding best practices for securing their accounts and I thought it was a good summary for everyone, including and especially Collective Digital Studio talent, so I figured I would post it here on my blog to share the info and to give people a taste of how we help our awesome talent throughout the year._
 
 CDS Creators —
 
