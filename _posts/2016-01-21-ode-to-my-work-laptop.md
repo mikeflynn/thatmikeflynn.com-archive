@@ -6,6 +6,8 @@ tags:
 - Collective Digital Studio
 ---
 
+![When my laptop and I first met](/public/images/work_laptop_2012.JPG)
+
 I started at Collective Digital Studio in 2012 as the month of December awoke from it's yearly slumber. I was handed a computer. A Macbook Pro Retina. That Retina part was new and it was the best computer I had ever used. That computer has been with me every day since then, and it died today. A little piece of me did too.
 
 My Macbook Pro lived a hard life. I asked a lot from it. Not "a lot" in the sense that I managed to tax any part of it's excessive specs, as I'm a developer and I just edit text files all day, but I brought it everywhere. It was thrown in countless bags, eaten over for countless meals (but never spilled on), taken out at countless TSA checkpoints, and even sat on a couple of times. It was a tray, it was a paper weight, and it was a way to block my face while I laughed at some guy from a different company farting during a sales presentation at my office. Oh, and I worked on it. Tons of times. I coded the first version of the API we use at Collective Digital Studio, typed out a ton of emails, and planned the reboot of the tech team we had in 2012 in to the amazing tech team we have today.
