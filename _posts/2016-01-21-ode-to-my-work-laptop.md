@@ -1,7 +1,6 @@
 ---
 layout: post
 title: An Ode to My Work Laptop
-draft: true
 tags:
 - Technology
 - Collective Digital Studio
