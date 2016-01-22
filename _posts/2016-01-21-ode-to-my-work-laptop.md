@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Ode to My Work Laptop
+image: work_laptop_2012.JPG
 tags:
 - Technology
 - Collective Digital Studio
