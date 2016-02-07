@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'Mike Flynn'
-  url:            https://twitter.com/mikeflynn_
+  url:            https://twitter.com/thatmikeflynn
 
 paginate:         5
 
