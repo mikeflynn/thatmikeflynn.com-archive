@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Studio71 Office Screens
-draft: true
+published: false
 tags:
 - Technology
 - Studio71
