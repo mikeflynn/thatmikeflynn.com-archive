@@ -5,6 +5,7 @@ image: work_laptop_2012.JPG
 tags:
 - Technology
 - Collective Digital Studio
+- Studio71
 ---
 
 ![When my laptop and I first met](/public/images/work_laptop_2012.JPG)
