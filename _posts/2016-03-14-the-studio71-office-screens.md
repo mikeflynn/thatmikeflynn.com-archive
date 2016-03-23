@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Studio71 Office Screens
+image: s71_office_chrome_app_001.jpg
 tags:
 - Technology
 - Studio71
