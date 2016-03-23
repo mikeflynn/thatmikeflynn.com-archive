@@ -6,6 +6,8 @@ tags:
 - Studio71
 ---
 
+_Update: I forgot to mention it in the post, but if there is any interest I could release a generic version to the store and/or the source code to the app. Let me know: [@thatmikeflynn](http://twitter.com/thatmikeflynn)_
+
 I love screens. You love screens. Developers love screens! We have at least two or three on our desk and when that's not enough we like to hang them all over the place so no matter where we look there's a screen in there somewhere. _Is the graph pointing up?_ _Is that counter a high number?_ _How many tickets has that new guy done?_ All important questions resolved by easy access to a well designed screen of information.
 
 We love screens. We want screens. How do we get the screens? There are plenty of apps you can buy to create beautiful dashboards for you, and after researching the options, I want to tell you about the solution I came up with at Studio71.
