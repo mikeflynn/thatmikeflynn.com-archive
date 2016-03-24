@@ -4,7 +4,22 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2015](#2015) (2), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2016](#2016) (2), [2015](#2015) (5), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+
+<a name="2016"></a>
+## 2016 [&#94;](#top)
+
+<a name="iwillvote"></a>
+### iWillVote.us
+
+[A web app that reminds you to vote via text.](https://iwillvote.us) Very basic site where you can sign up with all the magic in the service, written in Go, that queues up SMS messages to send via email (much cheaper).
+
+<a name="computerroommate"></a>
+### Computer Roommate (for Comedy Hack Day SF 2016)
+
+This project was a app you download that gives your computer a roommate. Why? Shut up, nerd! Just do it. [computerroommate.com](http://computerroommate.com)
+
+(To be clear, it works. It's crazy, but it works. It's a small OS X app shell for the UI and a service built with Go that does all the wacky stuff like changing your wallpaper, adjusting your screen brightness, or sending you messages as your roommate.)
 
 <a name="2015"></a>
 ## 2015 [&#94;](#top)
