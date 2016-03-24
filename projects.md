@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2016](#2016) (2), [2015](#2015) (5), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
 
 <a name="2016"></a>
 ## 2016 [&#94;](#top)
@@ -23,6 +23,11 @@ This project was a app you download that gives your computer a roommate. Why? Sh
 
 <a name="2015"></a>
 ## 2015 [&#94;](#top)
+
+<a name="godashbtn"></a>
+### Go Dash Button
+
+A Go project that you can use to trigger actions when an Amazon Dash button is pressed. [Here's the code](https://github.com/mikeflynn/go-dash-button) and [here's a little post](http://thatmikeflynn.com/2015/10/05/amazon-dash-buttons/) I wrote up about it.
 
 <a name="humanizeher"></a>
 ### Humanize Her (for Comedy Hack Day LA 2015)
