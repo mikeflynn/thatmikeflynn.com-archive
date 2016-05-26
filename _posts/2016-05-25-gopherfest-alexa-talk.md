@@ -6,7 +6,7 @@ tags:
 - Talk
 ---
 
-I recently had the opportunity to perform a "lightening talk" at San Francisco's Gopherfest 2016, a conference about the Go programming language, about my go-alexa library to create Amazon Alexa skills.
+I recently had the opportunity to perform a "lightening talk" at San Francisco's [Gopherfest 2016](http://www.gopherfest.org/mike-flynn), a conference about the Go programming language, about [my go-alexa library](https://github.com/mikeflynn/go-alexa) to create Amazon Alexa skills.
 
 Still no word on when the video of my talk will be released, but I've embedded my slides below:
 
