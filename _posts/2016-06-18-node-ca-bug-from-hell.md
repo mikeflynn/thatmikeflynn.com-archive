@@ -18,8 +18,10 @@ Late the other night we got reports of something not working on one of our apps.
 
 It doesn't help that I'm less than familiar with our Node application. We're in the middle of some "corporate restructuring" which means I'm down 2/3 of my JS developers at the moment. Nothing else is moving while I frantically read up on CA certs, Node JS in general, and better familiarize myself with the inner workings of how we request outside services in Node. I discover we use the `ssl-root-cas` module...but everything looks fine and it's set to fetch and use the latest CA during the build process. I take a break. I get back on it looking for other ways things can break. Maybe I need to update the calls and point the CA location to the system's CA file...but the stage server works fine, so why should I have to do that here? I certainly don't want a bunch of production file paths all over the code every time we make an SSL request. Lets take another break. Back at it, looking through the build logs when I see...
 
-`* Mozilla's root CA store`
-`* generated from https://mxr.mozilla.org/nss/source/lib/ckfw/builtins/certdata.txt?raw=1`
+```
+* Mozilla's root CA store
+* generated from https://mxr.mozilla.org/nss/source/lib/ckfw/builtins/certdata.txt?raw=1
+```
 
 ...and then, thankfully, I visited that URL. Probably out of something to do rather than anything else as it was late and I had run out of viable ideas hours ago...but I'm oh so happy I did because I saw...
 
