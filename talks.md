@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks & Speaking Engagements
+title: Talks
 permalink: /talks/
 ---
 
@@ -17,9 +17,13 @@ permalink: /talks/
 This session discusses how analytics tools can be used to produce more engaging video content. Learn the metrics content owners use to identify if content is sufficiently engaging an audience and how insights gathered impacts content owners creation and acquisition strategies. The session also covers what efforts are being made to personalize experiences, reviewing the tactics used to create segmented user groups and target individual users. Speakers have an open discussion about the gaps that must be bridged on the technology side to do better content personalization, prediction and the positive impact to content publishers.
 
 Moderator: Diane Strutner, VP, Sales, Business Development - Nice People at Work
+
 Mike Flynn, CTO - Studio71
+
 Jeremy Stern, Analytics Architect - WillowTree
+
 Brian Selander, EVP - Whistle Sports Network
+
 Christopher Roselli, President, Founder - HOLLYWOODLAND
 
 ## StrangeLoop (9/16)
@@ -49,8 +53,11 @@ Mike Flynn is the CTO of Studio71 and was previously a software architect at Ans
 Hear from technical and product leaders within the multichannel network community on how to make the most out of one’s relationship with platforms such as YouTube, Facebook and Twitter. Learn how technical meritocracies, bleeding-edge product ideas, and unconventional integrations can lead to closer, more meaningful relationships with the platforms. Attendees hear from those who have successfully partnered with social media platforms and learn how to makes these organizations partners instead of pains.
 
 Moderator: Mark Heyert, GOVA
+
 Mike Flynn, CTO - Collective Digital Studio
+
 Scott Paul, VP, Product - Maker Studios
+
 Alex Mostoufi, CTO - Mitu Networks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qQklVLK26tM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -67,8 +74,13 @@ Jay Tucker, Chief Marketing Officer, Institute for Communication Technology Mana
 
 Speakers:
 Mike Flynn, CTO, Collective Digital Studio
+
 Aaron Sloman, CTO, OWNZONES
+
 Paul Davidson, SVP Film & TV, The Orchard
+
 Susan Cheng, Senior Vice President, Content Management & Distribution, Warner Bros.
+
 Kaliel Roberts, SVP Product and Technology, Digital Media, Discovery Communications
+
 Matt Kautz, Head of Business Intelligence, Analytics and Research for Machinima.
