@@ -26,6 +26,8 @@ Brian Selander, EVP - Whistle Sports Network
 
 Christopher Roselli, President, Founder - HOLLYWOODLAND
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lv9_7AbGKwc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## StrangeLoop (9/16)
 
 *EXPLORING CONVERSATIONAL INTERFACES WITH AMAZON ALEXA AND GO*
