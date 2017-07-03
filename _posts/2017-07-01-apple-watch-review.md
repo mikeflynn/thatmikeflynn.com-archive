@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Series 2: A Short Review
+title: Apple Watch Series 2 - A Short Review
 tags:
 - Apple
 - Apple Watch
