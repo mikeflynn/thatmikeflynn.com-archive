@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2017](#2017) (1) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
 
 <a name="2017"></a>
 ## 2017 [&#94;](#top)
@@ -14,6 +14,12 @@ Years: [2017](#2017) (1) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7)
 A simple physical interface for the Raspberry Pi, utilizing the amazing Sense Hat add-on, that gives you the ability to start and stop services without having to sign in to the Pi. [Simple but effective!](https://github.com/mikeflynn/sensehat-service-ui)
 
 ![Sense Hat UI Demo Gif](https://media.giphy.com/media/MInNz1vlXmJnq/giphy.gif)
+
+### Info Sec
+
+A huge project for me this year is to get back up to speed on information security (info sec). Like maybe kids in the 90s I had my script kiddie days, but I've had a blast getting back in to the scene (it's much easier now that I can actually code) and very interesting.
+
+I finally, after years of pining over it, made it to DefCon 25. It was amazing and has added to my excitement around info sec, both offensive (fun) and defensive (work).
 
 <a name="2016"></a>
 ## 2016 [&#94;](#top)
