@@ -4,7 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2017](#2017) (1) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+
+<a name="2017"></a>
+## 2017 [&#94;](#top)
+
+### Sense Hat Service UI
+
+A simple physical interface for the Raspberry Pi, utilizing the amazing Sense Hat add-on, that gives you the ability to start and stop services without having to sign in to the Pi. [Simple but effective!](https://github.com/mikeflynn/sensehat-service-ui)
+
+![Sense Hat UI Demo Gif](https://media.giphy.com/media/MInNz1vlXmJnq/giphy.gif)
 
 <a name="2016"></a>
 ## 2016 [&#94;](#top)
@@ -35,6 +44,13 @@ A Go project that you can use to trigger actions when an Amazon Dash button is p
 I went down to LA for another Comedy Hack Day and [my team created "Huamize Her"](http://www.comedyhackday.org/demosmade/2015/8/27/humanize-her) which is an app that you can point at a woman to make her look like a man so you can focus on what she's saying. We made the finals, which was great, but the projector died on us for the big show, and that was not so great.
 
 The app started out that weekend as a web app, specifically an Android web app since iOS didn't include the camera APIs we needed in Safari, but I made it in to a native iOS app after I got back from LA...because...I have a sickness. Here's [a demo of the completed iOS version](https://www.youtube.com/watch?v=ekbgMfyBQqQ), and here's [the repo](https://github.com/mikeflynn/humanize-her-ios).
+
+<a name="go-alexa"></a>
+### `go-alexa` - A library to create Amazon Alexa skills with golang
+
+I created go-alexa framework to make creating Alexa skills in Go easier and more efficient. It now has nearly [150 stars on GitHub](https://github.com/mikeflynn/go-alexa/tree/master/skillserver) and is one of the core non-Amazon libraries to create Alexa skills in go.
+
+[I gave a talk about the framework and conversational applications in general at Strange Loop 2016.](/2016/09/17/strange-loop-talk/)
 
 <a name="alexa"></a>
 ### Amazon Alexa Skills - Various apps to add functionality to Amazon Echo
