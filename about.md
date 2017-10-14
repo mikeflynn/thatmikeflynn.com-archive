@@ -5,14 +5,15 @@ title: About
 
 Writing the about page is always so tough. Here's something about me: I love lists. Lets use one here.
 
-* I'm a software developer, tech team leader, and a writer.
-* I am the Chief Technical Officer @ [Collective Digital Studio](http://collectivedigitalstudio.com) -- We are a online video network working with talent like Epic Meal Time, Rhett and Link, and Roman Atwood.
+* I'm a software developer, CTO, a writer, and a dad.
+* I am the Chief Technical Officer @ [Studio71](http://studio71.com) -- We are a global media company working with talent like Epic Meal Time, Rhett and Link, and Roman Atwood.
 * In my free time I make various projects. You can see [a list of the notable ones here](/projects).
 * You can get a hold of me in a number of ways. All of which are detailed on [the Contact page](/contact).
 * Previously I wrote a very popular blog about making fun of St. Louis, MO news items entitled [Punching Kitty](http://punchingkitty.com). [I won a number of awards, garnered a bit of recognition, and appeared on various other media](http://punchingkitty.com/about) because of my work on Punching Kitty.
-* I'm a Mac guy but currently rock a Nexus 5x and have dabbled in both Android and iOS development (usually for silly projects).
-* I've been trying to record and post more video this year to both capture what my family is like with two little kids but also to get a sense of what our creators at Collective Digital Studio go through.
-* I live in the [San Francisco Bay Area](https://goo.gl/maps/5Z0ok).
+* I'm a Mac guy and currently rock an iPhone 8 Plus but have dabbled in both Android and iOS development (usually for silly projects). I also have a Lenovo Yoga running Kali Linux.
+* I'm very interested in information security, both offense and defense.
+* I've been trying to record and post more video this year to both capture what my family is like with two little kids but also to get a sense of what our creators at Studio71 go through.
+* I live in Los Angeles.
 * I'm originally from [St. Louis, MO](https://goo.gl/maps/AD6fG).
 * Here's <a href="https://github.com/mikeflynn" rel="me">my GitHub page</a>.
 * Here's <a href="https://twitter.com/thatmikeflynn" rel="me">my Twitter profile</a>.
