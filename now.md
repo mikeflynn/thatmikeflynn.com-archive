@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-date: 2016-01-16 00:00:00
+date: 2017-10-13 00:00:00
 ---
 
 ### Location
