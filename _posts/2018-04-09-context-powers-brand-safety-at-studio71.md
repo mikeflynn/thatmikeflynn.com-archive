@@ -13,3 +13,7 @@ Have you heard about the brand safety concerns on YouTube? Maybe you've heard it
 The result of that work is Studio71 Context. Context is our Brand Safety scanning technology that we have been quietly testing over the last few months, and I couldn't be more excited about how it has turned out. Context takes in all of the data we already know about the Studio71 creator and the amazing content they produce, leverages machine learning to fully understand every video uploaded, and works in tandem with our manual review team to make the right decisions at scale. What does that mean? It means we can ensure brands attach their message only to the content that makes sense for their brand and nothing else!
 
 As I'm sure all other digital media companies can attest, the task of understanding video content is a difficult technical challenge and we couldn't have developed and scaled Context as quickly as we did without the help of our partners at Google and Amazon, and the fact that this team has built a platform that is flexible and stable enough to build complex products on with confidence. In the 5+ years I've been at Studio71, Context is easily the most exciting project the Tech team has worked on and it looks like it may be the most successful as well.
+
+
+
+[![Studio71 Context Video](/public/images/studio71_context.jpg)](https://www.youtube.com/watch?v=JHwmtbhfvCY)
