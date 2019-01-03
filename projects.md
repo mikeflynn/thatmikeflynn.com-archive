@@ -6,6 +6,34 @@ permalink: /projects/
 
 Years: [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
 
+<a name="2019"></a>
+## 2019 [&#94;](#top)
+
+
+
+<a name="2018"></a>
+## 2018 [&#94;](#top)
+
+### A Lot of Small Failed Projects
+
+2018 was a lot of little projects that were started, weren't working, and moved on. Just that kind of year and probably caused by a larger than normal amount of family and professional work.
+
+### Punching Kitty.com Rewrite
+
+A full rewrite of my old comedy blog to move away from Wordpress and to a static site.
+
+[Punching Kitty](https://punchingkitty.com)
+
+### A House!
+
+I bought a house. It's not a coding project but it sure took a lot of work!
+
+### Studio71 Context
+
+My team at Studio71 created and fine-tuned Context, a data collection and machine learning application to understand YouTube content and discern which content is brand safe.
+
+[You can read more about Context here.](http://thatmikeflynn.com/2018/04/09/context-powers-brand-safety-at-studio71/)
+
 <a name="2017"></a>
 ## 2017 [&#94;](#top)
 
