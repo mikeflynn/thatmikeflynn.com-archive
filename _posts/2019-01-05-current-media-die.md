@@ -9,7 +9,7 @@ tags:
 - movies
 ---
 
-In the vein of the wonderful and prolific Jason Kottke, I'd like to start sharing my current media diet on my blog. I'm not going to keep track of everything I read, watch, or listen to, but I do think a general review of what I'm consuming would be interesting to others and myself in the future.
+In the vein of the wonderful and prolific [Jason Kottke](https://kottke.org/19/01/the-best-of-my-media-diet-for-2018), I'd like to start sharing my current media diet on my blog. I'm not going to keep track of everything I read, watch, or listen to, but I do think a general review of what I'm consuming would be interesting to others and myself in the future.
 
 [![Spider-Man Into the Spider-verse](/public/images/spider-verse.jpg)](https://www.youtube.com/watch?v=tg52up16eq0)
 
