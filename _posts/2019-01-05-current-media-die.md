@@ -21,6 +21,10 @@ I'm slow on movie intake these days, but we did take the whole family to ["Spide
 
 Outside of "The Office" reruns, I have watched half of the third season of "Daredevil" on Netflix but stalled out over the holidays and then watched the entirety of "[Bodyguard](https://www.youtube.com/watch?v=tLfLU6-9lxY)" which was really awesome. Best show I've watched in a while.
 
+### YouTube
+
+As of this moment, I'm tracking some [YouTube creator drama](https://www.youtube.com/watch?v=jw7LD2-gg14), checking out [the world of mechanical keyboards](https://www.youtube.com/watch?v=MLv6OjBRuR0) and watching people [fix old Hot Wheels](https://www.youtube.com/watch?v=zFTBpAp4FwY).
+
 ### Books
 
 I've stalled a bit on my Audible queue in favor of Podcasts, but I've started "[Countdown to Zero Day](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196)" (interesting but pretty dry) and "[The Coming Storm](https://www.goodreads.com/book/show/41016100-the-coming-storm)" (same).
