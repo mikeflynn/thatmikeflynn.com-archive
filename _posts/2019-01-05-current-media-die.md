@@ -29,6 +29,10 @@ As of this moment, I'm tracking some [YouTube creator drama](https://www.youtube
 
 I've stalled a bit on my Audible queue in favor of Podcasts, but I've started "[Countdown to Zero Day](https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196)" (interesting but pretty dry) and "[The Coming Storm](https://www.goodreads.com/book/show/41016100-the-coming-storm)" (same).
 
+### Games
+
+I beat Far Cry 4 in early December and moved in to Spider-Man on the PS4. On mobile, I'm playing a lot of Alto's Odyssey while waiting in line or while watching TV.
+
 ### Podcasts
 
 My usual weekly roster applies:
