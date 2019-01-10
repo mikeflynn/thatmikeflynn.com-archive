@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Techcrunch Will Let You Write Whatever Headline You Want
+title: Techcrunch Gives the Finger to Journalism and Kicks Newborn Puppy While Slapping Your Mom
 tags:
 - techcrunch
 - journalism
