@@ -13,8 +13,11 @@ In the latest segment in the endlessly long syndicated program entitled "Every T
 I'll let you guess what the title of this article, written by Federic Lardinois, is running in a (formally) respected tech news source.
 
 A: "AWS Launches New DocumentDB service to take on MongoDB"
+
 B: "MongoDB challenged by Amazon Web Services new DocumentDB Service"
+
 C: "AWS gives open source the middle finger"
+
 D: "You can earn $100 an hour working from home buying stuff online! Click here!"
 
 At this point D is a solid guess so no shame there if that's where you went, but the answer is actually C. C! ["AWS give open source the middle finger"](https://techcrunch.com/2019/01/09/aws-gives-open-source-the-middle-finger/) is the title of an news article and it's blowing my mind. Also, and this is the real kicker here...spoiler alert...no they didn't.
