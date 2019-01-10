@@ -10,7 +10,7 @@ Writing the about page is always so tough. Here's something about me: I love lis
 * In my free time I make various projects. You can see [a list of the notable ones here](/projects).
 * You can get a hold of me in a number of ways. All of which are detailed on [the Contact page](/contact).
 * Previously I wrote a very popular blog about making fun of St. Louis, MO news items entitled [Punching Kitty](http://punchingkitty.com). [I won a number of awards, garnered a bit of recognition, and appeared on various other media](http://punchingkitty.com/about) because of my work on Punching Kitty.
-* I'm a Mac guy and currently rock an iPhone 8 Plus but have dabbled in both Android and iOS development (usually for silly projects). I also have a Lenovo Yoga running Kali Linux.
+* I'm a Mac guy and currently rock an iPhone XS Max but have dabbled in both Android and iOS development (usually for silly projects). I have lots and lots of computers. Some of them are in fact Windows, most are Mac or Linux.
 * I'm very interested in information security, both offense and defense.
 * I've been trying to record and post more video this year to both capture what my family is like with two little kids but also to get a sense of what our creators at Studio71 go through.
 * I live in Los Angeles.

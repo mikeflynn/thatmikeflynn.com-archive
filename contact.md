@@ -15,20 +15,16 @@ Feel free to contact me if you have any questions, speaking requests, general co
 
 As is the case for everyone these days there are a number of ways to get a hold of me. Any of the below options are great but the best option under each medium is in bold.
 
-_Note: If you have a question about anything that pertains to my day job, VP of Technology for Collective Digital Studio, please reach out at my work email address: mflynn [at] thecollective-la [dot] com_
+_Note: If you have a question about anything that pertains to my day job, CTO for Studio71, please reach out at my work email address: mflynn [at] studio71us [dot] com_
 
 #### Social Networks
 * **Twitter: [@thatmikeflynn](https://twitter.com/thatmikeflynn)**
 * Facebook: [mikeflynn](https://facebook.com/mikeflynn)
-* Google Plus: [+MikeFlynnIsAwesome](https://plus.google.com/u/0/+MikeFlynnIsAwesome/posts)
 * Instagram: [mikeflynn](http://instagram.com/mikeflynn)
-* Vine: [Mike Flynn](https://vine.co/u/907124472119701504)
 * Snapchat: thatmikeflynn
 
 #### Chat
-* **Google Hangouts: mfflynn on GMail**
 * IRC: mikeflynn (on FreeNode)
-* Skype: mikeflynn_
 
 #### Email
 * **mfflynn [at] GMail**
