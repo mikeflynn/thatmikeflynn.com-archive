@@ -9,7 +9,9 @@ Years: [2019](#2019) (0) [2018](#2018) (4) [2017](#2017) (2) [2016](#2016) (2), 
 <a name="2019"></a>
 ## 2019 [&#94;](#top)
 
+### My Home Office
 
+I've put a ton of work in to my home office to make it the best room in the world. _Pictures are coming!_
 
 <a name="2018"></a>
 ## 2018 [&#94;](#top)
