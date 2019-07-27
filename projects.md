@@ -4,10 +4,24 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2019](#2019) (1) [2018](#2018) (4) [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2019](#2019) (3) [2018](#2018) (4) [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
 
 <a name="2019"></a>
 ## 2019 [&#94;](#top)
+
+### Swift UI
+
+Apple's Swift UI is a really intriguing shift for them and a far cry from ObjectiveC in many ways. I don't have a specific app idea, but my goal is to find some time to play with SwiftUI and see if an idea presents itself even if that idea is a personal app I will never submit to the App Store.
+
+### Woodworking
+
+I've been slowing building out a shop in my garage to expand my abilities in to woodworking and related building/making techniques. I like to move quickly so not having a proper shop without a base level of tooling causes a decent level from frustration which hopefully I can remedy this year.
+
+Planned Projects:
+
+* Chest for backyard and pool items.
+* Outdoor "kitchen"
+* Shelving and Organization for Garage / Shop
 
 ### My Home Office
 
