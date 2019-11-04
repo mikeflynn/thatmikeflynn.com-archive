@@ -6,6 +6,8 @@ tags:
 - travel
 ---
 
+![Little Lucca Sign](/public/images/20160919_littlelucca.jpg)
+
 I'm a sandwich guy. Ok, that's an understatement. I'm really in to sandwiches. I love the variety, the simplicity (or occasionally the complexity), the different textures, the bread, the meat (yes, meat), and usually, the cheese! I've spent my nearly 40 years in existence looking for the best sandwiches and then going to great lengths to eat them again and again. For example, I once flew in to San Francisco for business in the afternoon and realized I have just enough time to grab a particular favorite sandwich. I raced out of SFO and after three different and hurried Uber rides I managed to get settled in to my hotel with that beautiful white paper tube of sandwich sitting on one of the two queen beds in my room.
 
 Yes, I rank the sandwiches because of course I do! I've told people "Oh you're going to Portland?! One of my top five favorite sandwiches is from there!" but I've never actually written the list out in a place where I can refer back to it. It's only fair that I do that now as I always feel like there's an element of cheating when people say something is "one of my favorites." Out of how many and how often does this list change?! Today's the day I write that list down, throw it in to the internet, and make my favorites as official as some middle schoolers current Facebook relationship status!
