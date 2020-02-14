@@ -14,7 +14,8 @@ Don't talk to security sales cold calls!
 Studio71, where I'm the CTO, isn't some huge enterprise company or constantly in the news garnering press and attention, and yet I still get at least a couple of these kinds of calls every week.
 
 > *ring*
-> Me: "This Mike Flynn"
+>
+> Me: "This is Mike Flynn"
 >
 > Them: "Hi, this is ____ from WhateverSec. I just have a few questions for you."
 >
@@ -30,11 +31,12 @@ Studio71, where I'm the CTO, isn't some huge enterprise company or constantly in
 >
 > Them: ...
 >
-> Them: "Ok, that's perfectly fine."
+> Them: "Ok, right. That makes sense."
 >
 > Me: "Thanks for calling, but I have to go." (No I don't)
+>
 > *click*
 
-How many people do you think happily gave up the brand of firewall, maybe the software version, maybe the network appliances they have at their office? A lot, I bet...but please don't. What this person trying to research a hack? Honestly, probably not, but it's only takes one, and even if they are legit they don't need to know anything anyway. Oh, did they say they were from Rapid7? No they weren't because they usually don't ask those kinds of questions, but even if they did it doesn't matter.
+How many people do you think happily gave up the brand of firewall...maybe the software version...maybe the network appliances they have at their office? A lot, I bet...but please don't. What this person trying to research a hack? Honestly, probably not, but it only takes one, and even if they are legit they don't need to know anything anyway. Oh, did they say they were from Rapid7 or another established company? No they weren't because they usually don't ask those kinds of questions, but even if they did, it doesn't matter.
 
 Feel free to buy whatever it is they have to sell, but whatever it is they don't need to know your security infrastructure to sell it!
