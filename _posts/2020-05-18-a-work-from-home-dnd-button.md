@@ -5,13 +5,13 @@ tags:
 - projects
 ---
 
-I'm extremely fortunate that I have a true home office at our house. It's my favorite room in our whole place with an both an internal door and a door to to the back yard, and it affords me plenty of room to store my various projects and collection. The most important aspect of my home office is that it's a room where I can get some time work on...well...these days I work on _work_ in there. Not exciting, but it is important.
+I'm extremely fortunate that I have a true home office at our house. It's my favorite room in our whole place with an both an internal door and a door to to the back yard, and it affords me plenty of room to store my various projects and geeky collections. Of course, the most important aspect of my home office is that it's a room where I can get some time work on...well...these days I work on _work_ in there. Not exciting, but it is important.
 
 This has made Pandemic Life pretty easy for me but, and of course I have a but, there is one problem that has come up. When I'm in my office, and the door is shut, it's really hard to tell if I'm on an important Zoom meeting that shouldn't be interrupted by a family member creeping in from the door behind me or not.
 
 This is a problem that needed a solution.
 
-A solution far more complicated and awesome than any of the following: knocking, a white board, a post-it note, or a shared calendar. Those are fine solutions that any sane person would be proud of, but...I mean...honestly...no. No, we won't be doing any of those.
+A solution far more complicated and awesome than any of the following: knocking, a small white board, a post-it note, or a shared calendar. Those are fine solutions that any sane person would be proud of, but...I mean...honestly...no. No, we won't be doing any of those.
 
 Here's what I came up with:
 
@@ -67,5 +67,3 @@ Software:
 * The Arduino IDE
 * [Assistant Relay](https://greghesp.github.io/assistant-relay/)
 * [This curl script](https://gist.githubusercontent.com/mikeflynn/3b7885d5c74040ead2693d18785916f3/raw/3e4147f0f9fcb1a7e439c345a906525c63f9283f/dnd.sh)
-
-
