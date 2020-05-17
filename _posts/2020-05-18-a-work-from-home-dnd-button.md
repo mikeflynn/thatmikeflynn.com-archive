@@ -13,7 +13,7 @@ This is a problem that needed a solution.
 
 A solution far more complicated and awesome than any of the following: knocking, a small white board, a post-it note, or a shared calendar. Those are fine solutions that any sane person would be proud of, but...I mean...honestly...no. No, we won't be doing any of those.
 
-Here's what I came up with:
+Here's what I came up with (click to see a short demo video):
 
 [![Demo Video](/public/images/dnd_button_video.jpg)](https://youtu.be/qXXsyncw0hE)
 
