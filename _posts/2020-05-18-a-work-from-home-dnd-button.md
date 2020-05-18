@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Work From Home DND Button
+title: A Home Office DND Button
 tags:
 - projects
 ---
