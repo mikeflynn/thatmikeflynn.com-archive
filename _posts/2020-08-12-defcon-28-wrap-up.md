@@ -6,7 +6,7 @@ tags:
 - security
 ---
 
-![Devil Cold Caller](/public/images/dc-28-safemode.jpg)
+![Devil Cold Caller](/public/images/defcon-safemode.png)
 
 DEFCON, the world's largest hacking convention and always one of the highlights of my year, was last weekend and, of course, remote. I missed being in Vegas with tens of thousands of hackers, but there were still some fantastic talks and conversations over Discord.
 
