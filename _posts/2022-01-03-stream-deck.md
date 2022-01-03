@@ -6,8 +6,6 @@ tags:
 - hardware
 ---
 
-# The Stream Deck is Awesome
-
 ![Image.jpeg](https://res.craft.do/user/full/9f7e4d41-1749-af9f-fada-e2d1f42a66fa/doc/82348192-03B3-4277-B6A0-ED4B8380670C/5D9F4BB0-2008-4A16-9BA9-751F30A89EE8_2/hViSZiRFxZr8S8QHvxJTCvK4UMWzKylZU7thVRfG9DQz/Image.jpeg)
 
 I shift gears a lot throughout the day both at work and at home between various projects as things pop up, and while I miss the days when I could just put headphones on and chip away at a single project all day, it’s just not an option for me in any of my roles (CTO, Dad, etc). Over the holiday break I discovered Stream Deck, which is a piece of hardware from Elgato that is targeted for live streamers, but it’s also for anyone that loves automation and I’m completely obsessed with it.
