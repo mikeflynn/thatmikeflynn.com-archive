@@ -4,7 +4,38 @@ title: Projects
 permalink: /projects/
 ---
 
-Years: [2019](#2019) (3) [2018](#2018) (4) [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+Years: [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) (3) [2018](#2018) (4) [2017](#2017) (2) [2016](#2016) (2), [2015](#2015) (6), [2014](#2014) (7), [2013](#2013) (1), [2012](#2012) (1)
+
+<a name="2022"></a>
+## 2022 [&#94;](#top)
+
+
+
+<a name="2021"></a>
+## 2021 [&#94;](#top)
+
+### Bat Phone
+
+Right at the end of the year, I snuck in a Bat Phone prop replica over the holiday break. [You can read the full write up here.](https://thatmikeflynn.com/2022/01/09/my-bat-phone/)
+
+### Continued Workshop Build Out
+
+I really wanted to draw the line between my home office and my home workshop in the garage. I moved the 3D printer out to the workshop and took out my mini workbench as well. My office is now queiter and cleaner and my workshop is where all woodworking, electronics, and pyhsical building takes place.
+
+### Home Office Desk Refresh
+
+Three monitors, four computers, a bunch of little gadgets and a relatively clean desk.
+
+<a name="2020"></a>
+## 2020 [&#94;](#top)
+
+### Gaming PC
+
+I got a gaming PC in 2020 for two reasons: Primarily it will be used for a local dedicated Windows machine...and also I can play some fun games on it.
+
+### Backyard 2.0
+
+I built an outdoor kitchen, worked on getting grass to grow, improved (and purchased) the furniture, and just got the backyard dialed in to the point were we can feel like it's a extension of our living room.
 
 <a name="2019"></a>
 ## 2019 [&#94;](#top)
