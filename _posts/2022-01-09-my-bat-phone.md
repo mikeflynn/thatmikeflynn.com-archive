@@ -14,7 +14,7 @@ This year, I decided it was time to make myself a Bat Phone.
 
 As those of you have have been in a Zoom meeting with me know, I have a shelf filled with things as my office backdrop and part of that shelf is dedicated to Batman.
 
-![The Shelf](/public/images/2022/my_shelf.jpg)
+![The Shelf](/public/images/2022/my_shelf.jpeg)
 
 On that shelf I have a rewired Bat Signal, Legos, and prop recreations from the Michael Keaton Batman era, the Christian Bale batman era, and the animated (Kevin Conroy) Batman ear, but the Adam West Batman era was sadly underrepresented. What if I made a replica Bat Phone that actually rang (aka flashed a red light), and when you picked it up Commissioner Gordon talked to you?! Yes x 1000. With that, the “working” Bat Phone became my Holiday Break project for 2021.
 
