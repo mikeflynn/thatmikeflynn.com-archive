@@ -18,7 +18,7 @@ Yes, on it’s face it’s a drag and drop way to create automations, making it 
 
 ### Little Scripts Everywhere
 
-I’ve been writing little automation scripts for decades now and they have ended up any number of places over the years, like in Documents, or ~/bin, or in Automator, or a local git repo somewhere. Even if I was diligent about keeping everything in a single directory, over time and when switching hardware, some scripts are lost, some are kept, and some are kept but the context is lost. Scheduling scripts is also an issue. Unix systems, such as macOS can use cron jobs, but they don’t sync or migrate to the next computer or just simply forgotten about.
+I’ve been writing little automation scripts for decades now and they have ended up any number of places over the years, like in Documents, or ~/bin, or in Automator, or a local git repo somewhere. Even if I was diligent about keeping everything in a single directory, over time and when switching hardware, some scripts are lost, some are kept, and some are kept but the context is lost. Scheduling scripts is also an issue. Unix systems, such as macOS can use cron jobs, but they don’t sync or migrate to the next computer or are simply forgotten.
 
 Keyboard Maestro has become a single place for all macOS automation scripts to live. Scripts are embedded in to macros, macros can be scheduled, and it all syncs via your preferred file syncing solution.
 
@@ -28,7 +28,7 @@ Having all my scripts in one place has another side benefit, which is the kismet
 
 Keyboard Maestro gives you the ability to group macros in to folders. Some folders can be set specifically for a single application, other group folders can be set to only be active on one or more computers. It’s really helpful and allows you to share some scripts and not share others.
 
-Another benefit of everything being in one place is that, like code, you can see very clearly where a macro could be broken apart and used as the base subroutine for several macros which allows you to create a lot less bash/javascript/clicks.
+Like having all your code in a single repo, another benefit of having all the automation scripts in one place is that you can see very clearly where a macro could be broken apart and used as the base subroutine for several macros which allows you to create a lot less bash/javascript/clicks.
 
 ### Chasing UX Automation
 
@@ -42,8 +42,6 @@ AppleScript is weird. To be more precise, in an effort to make a programming lan
 
 Dropping in to AppleScript from time to time is probably unavoidable, but Keyboard Maestro allows me to limit that by letting their built in functions take care of the AppleScripting and let my logic live in Bash or Javascript blocks.
 
-If there are other automation apps, specifically for the Mac that can do all of the above, and have a track record like Keyboard Maestro I’d love to be tipped off, but until then I’m really happy with what I’ve been able to clean up and further automate with Keyboard Maestro.
-
 ----
 
 Let’s talk automation examples, shall we?
@@ -52,7 +50,7 @@ It’s impossible to write anything about automation without some segment of you
 
 ### Automated Setups or “Modes”
 
-Having a keyboard shortcut, or in my case a button on my Stream Deck open a series of windows for you is an extremely common use case, but it’s common because it’s really useful. I have several “modes” on my work and personal Macs. Below you can see an example of my “Start” mode that allows me to clear my windows and reset at the beginnning of the day to review Slack, email, my calendar, my notes, and a web browser.
+Having a keyboard shortcut, or in my case a button on my Stream Deck, open a series of windows for you is an extremely common use case, but it’s common because it’s really useful! I have several “modes” on my work and personal Macs. Below you can see an example of my “Start” mode that allows me to clear my windows and reset at the beginnning of the day to review Slack, email, my calendar, my notes, and a web browser.
 
 ![KM Automation Start](/public/images/2022/km_automation_start.gif)
 
@@ -60,7 +58,7 @@ Having a keyboard shortcut, or in my case a button on my Stream Deck open a seri
 
 ### Google Cast / Catt
 
-I have three monitors on my desk and a TV mounted on the wall to the left of my desk and I really love the idea of treating that TV as a fourth monitor! I threw a Google Cast device on that TV and installed the command line tool [catt](https://github.com/skorokithakis/catt). "catt" is an acronym for “Cast All The Things" and I think that's a nice succinct description.
+I have three monitors on my desk and a TV mounted on the wall to the left of my desk and I really love the idea of treating that TV as a fourth monitor. I threw a Google Cast device on that TV and installed the command line tool [catt](https://github.com/skorokithakis/catt). "catt" is an acronym for “Cast All The Things" and I think that's a nice succinct description.
 
 ```Bash
 ❯ catt -h
@@ -114,7 +112,7 @@ There are times when I need to fill my role as “typical engineering manager”
 
 ![KM Automation Assets](/public/images/2022/km_automation_assets.gif)
 
-I’ve got more and I have a list of others I want to experiment with, but I’d love to hear your automation ideas, successfully implemented or otherwise.
+I have so many more macros and I have a list of others I want to experiment with, but I’d love to hear your automation ideas, successfully implemented or otherwise.
 
 Hit me up: [@thatmikeflynn](https://twitter.com/thatmikeflynn)
 
