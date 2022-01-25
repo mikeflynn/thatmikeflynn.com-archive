@@ -8,13 +8,13 @@ tags:
 
 ![Do More](/public/images/2022/do_more_imac.png)
 
-You may have heard that I’ve been getting more in to automation recently, specifically automating more of my work and personal macOS environments. There are *countless* apps and tools and plugins and widgets for this on the Mac and over my 20 years using the Mac I have ignored all of them. Why? **Because I can code, dammit!** I don't need a menu bar filled with little icons that are the windows to little ram-munching services when I can just write a bash script or even my own Mac app to do what I need!
+[You may have heard that I’ve been getting more in to automation recently](https://thatmikeflynn.com/2022/01/03/stream-deck/), specifically automating more of my work and personal macOS environments. There are *countless* apps and tools and plugins and widgets for this on the Mac and over my 20 years using the Mac I have ignored all of them. Why? **Because I can code, dammit!** I don't need a menu bar filled with little icons that are the windows to little ram-munching services when I can just write a bash script or even my own Mac app to do what I need!
 
-So what changed? Why am I writing this? Nothing! I can still code and I still don’t want a bunch of little specialized apps running all the time…but I have seen the light on one automation app in particular.
+So what changed? Nothing! I can still code and I still don’t want a bunch of little specialized apps running all the time…but I have seen the light on one automation app in particular.
 
-I really love [Keyboard Maestro](https://www.keyboardmaestro.com/main/).
+Why am I writing this? It turns out that I fell in love with [Keyboard Maestro](https://www.keyboardmaestro.com/main/).
 
-Yes, on it’s face it’s a drag and drop way to create automations making it the Mac automation Swiss Army knife but even if you can code, it is extremely valuable. Here are a few reasons, and after that I’ll run through a few of my favorite automations.
+Yes, on it’s face it’s a drag and drop way to create automations, making it the Mac automation Swiss Army knife, but even if you can code, it is extremely valuable. Here are a few reasons, and after that I’ll run through a few of my favorite automations.
 
 ### Little Scripts Everywhere
 
