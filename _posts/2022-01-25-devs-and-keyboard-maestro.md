@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How a Developer Fell in Love with Keyboard Maestro
+summary: Keyboard Maestro has quickly become the central database of all of my personal Mac automations.
 tags:
 - automation
 - macos
