@@ -10,7 +10,7 @@
     <h2>Tags:</h2>
     <ul class="related-posts">
       {% for tag in tags %}
-      <li><h3><a href="/tags/#{{tag|slugize}}">{{tag}}</a></h3></li>{% unless forloop.last %},{% endunless %}
+      <li><h3><a href="/tags/#{{tag|slugize}}">{{tag}}</a></h3></li>
       {% endfor %}
     </ul>
     {% endif %}
