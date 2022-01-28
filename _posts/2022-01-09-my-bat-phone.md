@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Bat Phone Holiday Project
+summary: This year, my holiday project was to make a Bat Phone replica. No, that's not weird. 
 tags:
 - project
 - hardware
