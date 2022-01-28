@@ -5,6 +5,7 @@ summary: Keyboard Maestro has quickly become the central database of all of my p
 tags:
 - automation
 - macos
+- c33
 ---
 
 ![Do More](/public/images/2022/do_more_imac.png)
