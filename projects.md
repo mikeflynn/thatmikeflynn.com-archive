@@ -26,6 +26,10 @@ I really wanted to draw the line between my home office and my home workshop in 
 
 Three monitors, four computers, a bunch of little gadgets and a relatively clean desk.
 
+### C33 Technology
+
+I started an [executive consulting](https://c33tech.com) brand!
+
 <a name="2020"></a>
 ## 2020 [&#94;](#top)
 
