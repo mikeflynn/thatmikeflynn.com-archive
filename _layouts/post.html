@@ -4,7 +4,16 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <div class="meta">
+    <div class="post-date col">{{ page.date | date_to_string }}</div>
+    <div class="post-tags col">
+      {% if tags != empty %}
+        {% for tag in tags %}
+        <a href="/tags/#{{tag|slugize}}">{{tag}}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
 
   {{ content }}
 </div>

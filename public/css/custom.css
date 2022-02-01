@@ -34,3 +34,26 @@
   padding-top: 25px;
   font-family: 'Six Caps', sans-serif;
 }
+
+.message a.c33 {
+  font-weight: bold; 
+  color: white; 
+  background-color: #c33; 
+  padding: 5px; 
+  border-radius: 5px;
+}
+
+.message a.c33:hover {
+  text-decoration: none;
+}
+
+.post .meta .col {
+  float: left;
+  width: 50%;
+}
+
+.post .meta:after {
+  content: "";
+  display: table;
+  clear: both;
+}
