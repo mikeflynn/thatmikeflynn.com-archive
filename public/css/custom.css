@@ -35,10 +35,10 @@
   font-family: 'Six Caps', sans-serif;
 }
 
-.message a.c33 {
+a.c33 {
   font-weight: bold; 
-  color: white; 
-  background-color: #c33; 
+  color: white !important; 
+  background-color: #c33 !important; 
   padding: 5px; 
   border-radius: 5px;
 }
@@ -47,13 +47,28 @@
   text-decoration: none;
 }
 
-.post .meta .col {
-  float: left;
-  width: 50%;
+.post .meta {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
 }
 
-.post .meta:after {
-  content: "";
-  display: table;
-  clear: both;
+.post .meta .post-date {
+  margin-top:  0px;
+}
+
+.post .meta .post-tags {
+  text-align: right;
+}
+
+.post .meta a {
+  text-transform: uppercase;
+  padding: 5px;
+  background-color: #90a959;
+  color: white;
+  border-radius: 5px;
+  font-size: .75em;
+}
+
+.post .meta a:hover {
+  text-decoration: none;
 }

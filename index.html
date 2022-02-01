@@ -18,7 +18,16 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <div class="meta">
+      <div class="post-date">{{ post.date | date_to_string }}</div>
+      <div class="post-tags">
+        {% if post.tags != empty %}
+          {% for tag in post.tags %}
+            <a href="/tags/#{{tag|slugize}}" class="{% if tag == 'c33' %}c33{% endif %}">{{tag}}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
 
     {{ post.content }}
   </div>
